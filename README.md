@@ -43,10 +43,10 @@ L'application utilise un **Navigation Drawer** (Menu latéral) couplé à une ac
 
 L'application requiert la permission `ACTIVITY_RECOGNITION` pour pouvoir exploiter le capteur de pas sous les versions récentes d'Android.
 
-## Déploiement et Test
+## Video Demo
 
-- Le projet a été créé sous **Android Studio**.
-- Il peut être testé sur un périphérique physique (recommandé pour la boussole et la marche) ou sur l'émulateur Android en utilisant les capteurs virtuels (Virtual Sensors) fournis par l'outil de contrôle de l'émulateur.
+https://github.com/user-attachments/assets/94718b2d-c040-4c52-8306-7782fafef678
+
 
 ---
-*Ce projet est une réinterprétation pédagogique d'un laboratoire de développement mobile Android, restructurée pour s'approprier les concepts tout en conservant les objectifs fonctionnels initiaux.*
+*EZBIRI Amira*
